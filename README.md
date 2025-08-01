@@ -1,0 +1,3 @@
+# KeyStoneCLI
+
+KeyStoneCLI is a robust command-line utility designed to provide developers with a secure, local vault for sensitive credentials. It allows users to encrypt, store, retrieve, and manage API keys, passwords, tokens, and other confidential data directly from their terminal. Leveraging strong cryptographic techniques, KeyStoneCLI ensures that all secrets are securely stored on the local filesystem, protected by a master password. The tool aims to streamline development workflows by offering quick, secure access to necessary credentials while emphasizing local control and data privacy, eliminating the need to embed sensitive information directly in code or rely on insecure plain-text files.
